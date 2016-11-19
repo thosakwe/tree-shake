@@ -1,0 +1,36 @@
+{
+  "name": "tree-shake",
+  "version": "1.0.0",
+  "description": "ES6 tree-shaking example.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thosakwe/tree-shake.git"
+  },
+  "keywords": [
+    "tree",
+    "shake",
+    "tree-shake",
+    "shaking",
+    "tree-shaking",
+    "shaker",
+    "tree-shaker"
+  ],
+  "author": "Tobe O <thosakwe@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thosakwe/tree-shake/issues"
+  },
+  "homepage": "https://github.com/thosakwe/tree-shake#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-es2015": "^6.18.0"
+  },
+  "dependencies": {
+    "esprima": "^3.1.1"
+  }
+}
